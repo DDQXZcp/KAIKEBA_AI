@@ -1,5 +1,7 @@
 chapter2_2 assignment:
 
-Code a function to do median blur operations by your self (half-completed)not recommended to use median(), implement it by myself
+assignment description & picture: 第二周_CV课作业.ipynb
 
-Read RANSAC algorithm and write a pseudo code about it (incompleted)
+Realize median blur by myself: median.ipynb (completed)
+
+Read RANSAC algorithm and write a pseudo code about it: ransac.ipynb (incompleted)
