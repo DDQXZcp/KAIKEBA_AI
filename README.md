@@ -7,14 +7,14 @@ Combine image crop, color shift, rotation and perspective transform together to 
 (completed)
 
 Optional: Please change image color through YUV/HSV space (Advance: Do a app for id photo bg change)
-(incompleted)
+(completed)
 
 2. Do think about your own interests very carefully
 
 chapter2_2 assignment:
 
 1. Code a function to do median blur operations by your self
-(half-completed)not recommended to use median(), implement it by myself
+(completed)
 
 2. Read RANSAC algorithm and write a pseudo code about it
 (incompleted)
