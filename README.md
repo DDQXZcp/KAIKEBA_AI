@@ -1,4 +1,4 @@
-# KAIKEBA_AI course
+# KAIKEBA_AI course - Completed by Herman TANG
 
 chapter2 assignment:
 
