@@ -1,4 +1,4 @@
-chapter2_2 assignment:
+## chapter2_2 assignment:
 
 assignment description & picture: 第二周_CV课作业.ipynb
 
